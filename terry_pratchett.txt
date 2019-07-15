@@ -1,1 +1,2 @@
-Book: The Colour of Magic
+Book: (1) The Colour of Magic
+Book: (2) The Light Fantastic
